@@ -8,9 +8,9 @@
 Full Stack Developer based in Nagpur, Maharashtra, India. Passionate about Web Development, Gaming, and Comic Books. Currently learning advanced React, Node.js, and Python. Fun fact: I love creating 8-bit style pixel art in my free time! 🎨
 
 <p align="center">
-<img src="https://i.imgur.com/N27j27A.jpeg" alt="Pixel Art Red Hood" height="150"/>
-<img src="https://i.imgur.com/2sL2i2a.jpeg" alt="Pixel Art Bat Symbol" height="150"/>
-</p>
+<img src="7972f109-9eec-4a16-9c4a-048426972da4.png" alt="Pixel Art Red Hood" height="150"/> 
+
+<img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" alt="Pixel Art Bat Symbol" height="150"/> </p>
 
 ⚡ Tech Stack
 <p align="left">
