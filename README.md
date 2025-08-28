@@ -24,7 +24,7 @@
 📈 **GitHub Stats**  
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <!-- 3D Icon -->
-  <img src="https://your-repo-url/3dicons-target-dynamic-color.png" width="120" alt="3D Icon">
+  <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" width="120" alt="3D Icon">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" width="300" alt="GitHub Stats">
