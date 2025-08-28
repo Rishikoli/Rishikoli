@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishikesh%20Koli&fontAlign=30&fontAlignY=36&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishikesh%20Koli&fontAlign=30&fontAlignY=36&animation=fadeIn&rotate=0&descAlign=95&descAlignY=100)
 
 # 👋 Hey there, I’m Rishikoli  
 
