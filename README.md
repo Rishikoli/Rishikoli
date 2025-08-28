@@ -1,5 +1,5 @@
 <p align="left" style="display: flex; align-items: center;">
-  <img src="3dicons-target-dynamic-color.png" width="20" alt="3D Icon" style="margin-right: 20px;">
+  <img src="3dicons-target-dynamic-color.png" width="40" alt="3D Icon" style="margin-right: 20px;">
   <span>
   <strong>About Me</strong><br>
     Final-year Computer Science and Business Systems student passionate about building real-world solutions with AI, web development, and business logic. Experienced in projects spanning finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful, user-focused products.
