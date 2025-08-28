@@ -51,7 +51,7 @@
 <a href="mailto:1983rishikesh@gmail.com">
 <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" width="80"height="40" alt="3D Icon" style="margin-right: 20px;">
+<img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" width="80"height="80" alt="3D Icon" style="margin-right: 20px;">
 </p>
 
 
