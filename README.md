@@ -30,7 +30,7 @@
 ##  Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-koli-828248257/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff533d?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)  
-[![Mail](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikesh@example.com)
+[![Mail](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1983rishikesh@gmail.com)
 
 ---
 
