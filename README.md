@@ -30,7 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" width="300" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" width="200" alt="Top Languages">
   </br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikoli&repo=your-repo&theme=radical" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=radical" alt="Profile Summary" />
 
 
