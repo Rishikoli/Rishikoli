@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishikesh%20Koli&fontAlign=30&fontAlignY=36&animation=fadeIn)
+
 # 👋 Hey there, I’m Rishikoli  
 
 💻 AI & Web Developer | 🚀 Hackathon Enthusiast | 📊 Data Explorer  
