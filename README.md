@@ -1,3 +1,9 @@
+<!-- Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:dc2626,50:7c3aed,100:161b22&text=Hey%20there,%20I'm%20Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Software%20Engineer%20%26%20AI%20Enthusiast&descAlign=50&descAlignY=60" alt="Header Banner"/>
+</p>
+
 🚀 About Me
 Final-year Computer Science and Business Systems student passionate about creating real-world solutions by combining AI, web development, and business logic. Experienced in driving projects in finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful and user-focused products.
 
@@ -9,6 +15,31 @@ Final-year Computer Science and Business Systems student passionate about creati
 <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,aws,tailwind&theme=dark">
 </picture>
 </p>
+
+🏆 Featured Projects
+Project
+
+Summary
+
+Tech
+
+🤖 Interview Master.ai
+
+AI-powered mock interview platform with real-time questions and feedback.
+
+Python, JavaScript, React, NLP
+
+📈 TradeVision
+
+Stock trend prediction app with ML forecasting and interactive dashboards.
+
+Python, React, Machine Learning
+
+💡 WattWise
+
+Real-time utility usage monitoring with personalized tips and alerts.
+
+-
 
 📈 GitHub Insights
 <p align="center">
