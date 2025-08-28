@@ -1,17 +1,13 @@
-<!-- ─────────────────────────────────────────────── -->
-<!-- Profile README with Capsule Render banner       -->
-<!-- ─────────────────────────────────────────────── -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:ff1e56,50:ff533d,100:8b0000&text=Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=AI%20%26%20Web%20Developer&descAlign=50&descAlignY=60" alt="Rishikesh Koli banner"/>
+  <img src="./banner.png" alt="Rishikesh Koli banner" width="100%"/>
 </div>
 
-# 👋 Hey there, I’m **Rishikoli**
+# ​ Hey there, I’m **Rishikoli**
 💻 *AI & Web Developer* | 🚀 *Hackathon Enthusiast* | 📊 *Data Explorer*
 
 ---
 
-## ⚡ Tech Stack
+## ​ Tech Stack
 - 🐍 **Python**
 - ⚛️ **React**
 - ☁️ **Azure AI**
@@ -22,7 +18,7 @@
 
 ---
 
-## 📈 GitHub Insights
+##  GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=ff533d" alt="stats" height="158"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=radical" alt="streak" height="158"/>
@@ -31,8 +27,8 @@
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+##  Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-koli-828248257/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff533d?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)  
 [![Mail](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikesh@example.com)
 
