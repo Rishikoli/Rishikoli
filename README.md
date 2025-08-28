@@ -10,121 +10,122 @@
         body {
             font-family: 'Inter', sans-serif;
         }
+        /* Simple animation for the banner */
+        .banner-gradient {
+            background: linear-gradient(-45deg, #dc2626, #7c3aed, #0d1117, #161b22);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+        }
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
     </style>
 </head>
-<body class="bg-gradient-to-br from-gray-900 to-slate-800 text-gray-300">
-    <div class="container mx-auto p-4 md:p-8 max-w-6xl">
-        
-        <!-- Header Section -->
-        <header class="text-center mb-10 p-8 bg-gray-800/50 rounded-xl shadow-2xl backdrop-blur-sm border border-gray-700">
-            <div class="flex justify-center items-center gap-4 mb-4">
-                 <img src="https://placehold.co/120x120/dc2626/white?text=RH" alt="8-bit Red Hood" class="rounded-full border-4 border-red-600">
-                 <img src="https://placehold.co/80x80/161b22/f0f6fc?text=Bat" alt="8-bit Batman Symbol" class="rounded-full">
-            </div>
-            <h1 class="text-4xl md:text-5xl font-bold text-white mb-2">👋 Welcome to my GitHub Profile!</h1>
-            <h3 class="text-xl text-violet-400 font-medium">🦇 Developer | 🔴 Tech Enthusiast | 🎮 Retro Gaming Fan</h3>
+<body class="bg-slate-900 text-gray-300">
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+
+        <!-- Header Banner -->
+        <header class="banner-gradient p-10 rounded-xl text-center mb-8 shadow-2xl">
+            <h1 class="text-4xl md:text-5xl font-bold text-white">Hey there, I'm [Your Name]</h1>
+            <p class="text-xl text-white/80 mt-2">🦇 Developer | 🔴 Tech Enthusiast | 🎮 Retro Gaming Fan</p>
         </header>
 
-        <main class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <!-- Left Column -->
-            <div class="md:col-span-2 space-y-8">
-                
-                <!-- About Me Section -->
-                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🚀 About Me</h2>
-                    <div class="bg-gray-900 p-4 rounded-lg font-mono text-sm text-cyan-400 overflow-x-auto">
-<pre><code>const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  location: "Nagpur, Maharashtra, India",
-  interests: ["Web Development", "Gaming", "Comic Books"],
-  currentlyLearning: ["React", "Node.js", "Python"],
-  funFact: "I create pixel art in my free time! 🎨"
-};</code></pre>
-                    </div>
-                </section>
+        <!-- Main Content -->
+        <main class="space-y-8">
 
-                <!-- Featured Projects Section -->
-                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🏆 Featured Projects</h2>
-                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                        <!-- Project Card 1 -->
-                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
-                            <h3 class="text-lg font-bold text-white">🎮 Retro Game Hub</h3>
-                            <p class="text-sm text-gray-400 mt-1">Classic games recreated in modern web tech.</p>
-                            <p class="text-xs mt-2"><strong>Tech:</strong> HTML5, CSS3, JavaScript</p>
-                        </div>
-                        <!-- Project Card 2 -->
-                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
-                            <h3 class="text-lg font-bold text-white">🦸‍♂️ Hero Database</h3>
-                            <p class="text-sm text-gray-400 mt-1">A comprehensive comic character info app.</p>
-                            <p class="text-xs mt-2"><strong>Tech:</strong> React, Node.js, MongoDB</p>
-                        </div>
-                        <!-- Project Card 3 -->
-                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
-                            <h3 class="text-lg font-bold text-white">🎨 Pixel Art Creator</h3>
-                            <p class="text-sm text-gray-400 mt-1">Online tool for creating retro-style pixel art.</p>
-                            <p class="text-xs mt-2"><strong>Tech:</strong> Canvas API, JavaScript</p>
-                        </div>
-                    </div>
-                </section>
-            </div>
+            <!-- About Me Section -->
+            <section class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
+                <h2 class="text-2xl font-bold text-white mb-4">🚀 About Me</h2>
+                <p class="text-gray-400">
+                    Full Stack Developer based in Nagpur, Maharashtra, India. Passionate about Web Development, Gaming, and Comic Books. Currently learning advanced React, Node.js, and Python. Fun fact: I love creating 8-bit style pixel art in my free time! 🎨
+                </p>
+            </section>
 
-            <!-- Right Column -->
-            <div class="space-y-8">
-                <!-- Tech Stack Section -->
-                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🛠️ Tech Stack</h2>
-                    <div class="flex flex-wrap gap-2">
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">JavaScript</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Python</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">React</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Node.js</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">HTML5</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">CSS3</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Git</span>
-                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">VS Code</span>
-                    </div>
-                </section>
+            <!-- Tech Stack Section -->
+            <section class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
+                <h2 class="text-2xl font-bold text-white mb-4">⚡ Tech Stack</h2>
+                <div class="flex flex-wrap gap-3">
+                    <!-- Replace with your actual tech stack from shields.io -->
+                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+                    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+                    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                </div>
+            </section>
 
-                <!-- GitHub Stats Section -->
-                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
-                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">📊 GitHub Stats</h2>
-                    <div class="space-y-4">
-                        <div class="bg-gray-900 p-3 rounded-lg text-center">
-                            <h3 class="font-semibold text-white">🔥 Repositories</h3>
-                            <p class="text-3xl font-bold text-red-500">25+</p>
-                        </div>
-                        <div class="bg-gray-900 p-3 rounded-lg text-center">
-                            <h3 class="font-semibold text-white">⭐ Stars Earned</h3>
-                            <p class="text-3xl font-bold text-red-500">100+</p>
-                        </div>
-                        <div class="bg-gray-900 p-3 rounded-lg text-center">
-                            <h3 class="font-semibold text-white">🤝 Followers</h3>
-                            <p class="text-3xl font-bold text-red-500">50+</p>
-                        </div>
-                    </div>
-                </section>
-                
-                <!-- Connect With Me Section -->
-                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
-                     <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🤝 Connect</h2>
-                     <div class="flex justify-center flex-wrap gap-3">
-                        <a href="https://linkedin.com/in/YOUR_LINKEDIN" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">LinkedIn</a>
-                        <a href="https://twitter.com/YOUR_TWITTER" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">Twitter</a>
-                        <a href="mailto:your.email@gmail.com" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">Email</a>
-                     </div>
-                </section>
+            <!-- Featured Projects Section -->
+            <section class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
+                <h2 class="text-2xl font-bold text-white mb-4">🏆 Featured Projects</h2>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left">
+                        <thead class="border-b border-gray-600 text-white">
+                            <tr>
+                                <th class="p-2">Project</th>
+                                <th class="p-2">Summary</th>
+                                <th class="p-2">Tech</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-gray-400">
+                            <tr class="border-b border-gray-700">
+                                <td class="p-2 font-semibold">🎮 Retro Game Hub</td>
+                                <td class="p-2">Classic games recreated in modern web tech.</td>
+                                <td class="p-2">HTML5, CSS3, JavaScript</td>
+                            </tr>
+                            <tr class="border-b border-gray-700">
+                                <td class="p-2 font-semibold">🦸‍♂️ Hero Database</td>
+                                <td class="p-2">A comprehensive comic character info app.</td>
+                                <td class="p-2">React, Node.js, MongoDB</td>
+                            </tr>
+                            <tr>
+                                <td class="p-2 font-semibold">🎨 Pixel Art Creator</td>
+                                <td class="p-2">Online tool for creating retro-style pixel art.</td>
+                                <td class="p-2">Canvas API, JavaScript</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
 
-            </div>
+            <!-- GitHub Insights Section -->
+            <section class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
+                <h2 class="text-2xl font-bold text-white mb-4">📈 GitHub Insights</h2>
+                <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username -->
+                <div class="flex flex-wrap justify-center gap-4">
+                    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" class="max-w-full">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" class="max-w-full">
+                </div>
+            </section>
+
+            <!-- Connect With Me Section -->
+            <section class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
+                <h2 class="text-2xl font-bold text-white mb-4 text-center">🌐 Connect with me</h2>
+                <div class="flex justify-center flex-wrap gap-4">
+                    <!-- Replace with your actual links -->
+                    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+                        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+                    </a>
+                    <a href="https://twitter.com/YOUR_TWITTER">
+                        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+                    </a>
+                    <a href="mailto:your.email@gmail.com">
+                        <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+                    </a>
+                </div>
+            </section>
+
         </main>
 
         <!-- Footer -->
-        <footer class="text-center mt-10 p-6 bg-gray-800/50 rounded-xl shadow-lg border border-gray-700">
-            <p class="font-semibold mb-2">Thanks for visiting! ⭐ Star some repositories if you find them interesting!</p>
-            <img src="https://placehold.co/60x60/dc2626/white?text=RH" alt="Red Hood Pixel Art" class="mx-auto my-2 rounded-full">
-            <p class="text-sm">Profile Views: <span class="bg-red-600 text-white text-xs font-bold px-2 py-1 rounded-full">1,234</span></p>
+        <footer class="text-center mt-8 p-6">
+            <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username -->
+            <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=dc2626" alt="profile views">
         </footer>
+
     </div>
 </body>
 </html>
