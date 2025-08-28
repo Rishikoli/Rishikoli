@@ -53,6 +53,7 @@ Consolation Prize - TechSaksham Regional Showcase (Microsoft & SAP Initiative)
 📈 GitHub Insights
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
