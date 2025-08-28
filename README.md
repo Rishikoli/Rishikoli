@@ -1,11 +1,10 @@
-<!-- ─────────────────────────────────────────────────────────── -->
-<!-- Static banner: red-hood gradient, no animation              -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:ff1e56,50:ff533d,100:8b0000&text=Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=AI%20%26%20Web%20Developer&descAlign=50&descAlignY=60"
-    alt="Rishikesh Koli banner"
-  />
-</p>
+<!-- ─────────────────────────────────────────────── -->
+<!-- Profile README with Capsule Render banner       -->
+<!-- ─────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:ff1e56,50:ff533d,100:8b0000&text=Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=AI%20%26%20Web%20Developer&descAlign=50&descAlignY=60" alt="Rishikesh Koli banner"/>
+</div>
 
 # 👋 Hey there, I’m **Rishikoli**
 💻 *AI & Web Developer* | 🚀 *Hackathon Enthusiast* | 📊 *Data Explorer*
@@ -43,7 +42,3 @@
   <img src="https://komarev.com/ghpvc/?username=Rishikoli&color=ff1e56" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Rishikoli?label=Followers&style=social" alt="followers"/>
 </p>
-
-<!-- ─────────────────────────────────────────────────────────── -->
-<!-- Feel free to add new sections like Blogs, Achievements, etc. -->
-<!-- ─────────────────────────────────────────────────────────── -->
