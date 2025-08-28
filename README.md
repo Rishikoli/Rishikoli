@@ -8,10 +8,10 @@
 
 ---
 
-  <img src="3dicons-flash-dynamic-color.png" width="40" alt="3D Icon" style="margin-right: 20px;">
-**Tech Stack**  
 <p align="left">
+  <img src="3dicons-flash-dynamic-color.png" width="40" alt="3D Icon" style="margin-right: 20px;">
     <span>
+      <strong>Tech Stack</strong>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
