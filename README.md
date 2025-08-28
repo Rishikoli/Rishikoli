@@ -1,3 +1,9 @@
+<!-- Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:dc2626,50:7c3aed,100:161b22&text=Hey%20there,%20I'm%20Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Software%20Engineer%20%26%20AI%20Enthusiast&descAlign=50&descAlignY=60" alt="Header Banner"/>
+</p>
+
 🚀 About Me
 Final-year Computer Science and Business Systems student passionate about creating real-world solutions by combining AI, web development, and business logic. Experienced in driving projects in finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful and user-focused products.
 
@@ -11,6 +17,31 @@ Final-year Computer Science and Business Systems student passionate about creati
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
+
+🏆 Featured Projects
+Project
+
+Summary
+
+Tech
+
+🎮 Retro Game Hub
+
+Classic games recreated in modern web tech.
+
+HTML5, CSS3, JavaScript
+
+🦸‍♂️ Hero Database
+
+A comprehensive comic character info app.
+
+React, Node.js, MongoDB
+
+🎨 Pixel Art Creator
+
+Online tool for creating retro-style pixel art.
+
+Canvas API, JavaScript
 
 📈 GitHub Insights
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username -->
