@@ -31,6 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" width="200" alt="Top Languages">
   </br>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikoli&repo=your-repo&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=radical" alt="Profile Summary" />
+
 
 </p>
 
@@ -47,15 +49,4 @@
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rishikoli&color=dc2626" alt="profile views"/>
-</p>
-<p align="center">
-  <a href="https://github.com/Rishikoli/your-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikoli&repo=your-repo&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=radical" alt="Profile Summary" />
-</p>
 
