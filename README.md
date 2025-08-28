@@ -28,6 +28,7 @@
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" width="300" alt="GitHub Stats">
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" width="200" alt="Top Languages">
   <img src="https://github-profile-trophy.vercel.app/?username=Rishikoli&theme=radical&row=1&column=7" width="300" alt="GitHub Trophies">
 </p>
