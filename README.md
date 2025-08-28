@@ -1,5 +1,10 @@
-🚀 **About Me**  
-Final-year Computer Science and Business Systems student passionate about building real-world solutions with AI, web development, and business logic. Experienced in projects spanning finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful, user-focused products.
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://your-repo-url/3dicons-target-dynamic-color.png" width="120" alt="3D Icon" style="margin-right: 20px;">
+  <span>
+    🚀 <strong>About Me</strong><br>
+    Final-year Computer Science and Business Systems student passionate about building real-world solutions with AI, web development, and business logic. Experienced in projects spanning finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful, user-focused products.
+  </span>
+</p>
 
 ---
 
