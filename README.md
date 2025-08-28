@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Richerich  
+# 👋 Hey there, I’m Rishikoli  
 
 💻 AI & Web Developer | 🚀 Hackathon Enthusiast | 📊 Data Explorer  
 
@@ -12,11 +12,11 @@
 
 ## 📊 GitHub Insights  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -27,5 +27,5 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)  
-![Followers](https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=Rishikoli&color=blue)  
+![Followers](https://img.shields.io/github/followers/Rishikoli?label=Followers&style=social)  
