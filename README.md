@@ -4,256 +4,127 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My GitHub Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0d1117, #161b22);
-            color: #c9d1d9;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding: 30px;
-            background: #21262d;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-        }
-        .header img {
-            margin: 0 15px;
-        }
-        .header h1 {
-            color: #f0f6fc;
-            margin: 20px 0 10px 0;
-        }
-        .header h3 {
-            color: #7c3aed;
-            margin: 0;
-        }
-        .section {
-            background: #21262d;
-            margin: 20px 0;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-        }
-        .section h2 {
-            color: #f0f6fc;
-            border-bottom: 2px solid #dc2626;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-            margin: 20px 0;
-        }
-        .tech-badge {
-            background: #dc2626;
-            color: white;
-            padding: 8px 16px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: transform 0.3s;
-        }
-        .tech-badge:hover {
-            transform: scale(1.05);
-        }
-        .stats-container {
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        .stat-card {
-            background: #161b22;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            flex: 1;
-            min-width: 200px;
-        }
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin: 20px 0;
-        }
-        .project-card {
-            background: #161b22;
-            padding: 20px;
-            border-radius: 10px;
-            border-left: 4px solid #dc2626;
-        }
-        .project-card h3 {
-            color: #f0f6fc;
-            margin-top: 0;
-        }
-        .social-links {
-            text-align: center;
-            margin: 30px 0;
-        }
-        .social-links a {
-            display: inline-block;
-            margin: 0 10px;
-            padding: 10px 20px;
-            background: #dc2626;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background 0.3s;
-        }
-        .social-links a:hover {
-            background: #b91c1c;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding: 20px;
-            background: #21262d;
-            border-radius: 10px;
-        }
-        code {
-            background: #161b22;
-            padding: 15px;
-            border-radius: 5px;
-            display: block;
-            margin: 15px 0;
-            font-family: 'Courier New', monospace;
-            color: #79c0ff;
+            font-family: 'Inter', sans-serif;
         }
     </style>
 </head>
-<body>
-    <div class="container">
+<body class="bg-gradient-to-br from-gray-900 to-slate-800 text-gray-300">
+    <div class="container mx-auto p-4 md:p-8 max-w-6xl">
+        
         <!-- Header Section -->
-        <div class="header">
-            <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" alt="8-bit Red Hood" height="120">
-            <img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" alt="8-bit Batman Symbol" height="80">
-            <h1>👋 Welcome to my GitHub Profile!</h1>
-            <h3>🦇 Developer | 🔴 Tech Enthusiast | 🎮 Retro Gaming Fan</h3>
-        </div>
-
-        <!-- About Me Section -->
-        <div class="section">
-            <h2>🚀 About Me</h2>
-            <code>
-const developer = {
-    name: "Your Name",
-    role: "Full Stack Developer", 
-    location: "Nagpur, Maharashtra, India",
-    interests: ["Web Development", "Gaming", "Comic Books", "Open Source"],
-    currentlyLearning: ["React", "Node.js", "Python"],
-    funFact: "I create pixel art in my free time! 🎨"
-};
-            </code>
-        </div>
-
-        <!-- Tech Stack Section -->
-        <div class="section">
-            <h2>🛠️ Tech Stack & Tools</h2>
-            <div class="tech-stack">
-                <span class="tech-badge">JavaScript</span>
-                <span class="tech-badge">Python</span>
-                <span class="tech-badge">React</span>
-                <span class="tech-badge">Node.js</span>
-                <span class="tech-badge">HTML5</span>
-                <span class="tech-badge">CSS3</span>
-                <span class="tech-badge">Git</span>
-                <span class="tech-badge">VS Code</span>
+        <header class="text-center mb-10 p-8 bg-gray-800/50 rounded-xl shadow-2xl backdrop-blur-sm border border-gray-700">
+            <div class="flex justify-center items-center gap-4 mb-4">
+                 <img src="https://placehold.co/120x120/dc2626/white?text=RH" alt="8-bit Red Hood" class="rounded-full border-4 border-red-600">
+                 <img src="https://placehold.co/80x80/161b22/f0f6fc?text=Bat" alt="8-bit Batman Symbol" class="rounded-full">
             </div>
-        </div>
+            <h1 class="text-4xl md:text-5xl font-bold text-white mb-2">👋 Welcome to my GitHub Profile!</h1>
+            <h3 class="text-xl text-violet-400 font-medium">🦇 Developer | 🔴 Tech Enthusiast | 🎮 Retro Gaming Fan</h3>
+        </header>
 
-        <!-- Stats Section -->
-        <div class="section">
-            <h2>📊 GitHub Stats</h2>
-            <div class="stats-container">
-                <div class="stat-card">
-                    <h3>🔥 Repositories</h3>
-                    <p style="font-size: 2em; color: #dc2626;">25+</p>
-                </div>
-                <div class="stat-card">
-                    <h3>⭐ Stars Earned</h3>
-                    <p style="font-size: 2em; color: #dc2626;">100+</p>
-                </div>
-                <div class="stat-card">
-                    <h3>🤝 Followers</h3>
-                    <p style="font-size: 2em; color: #dc2626;">50+</p>
-                </div>
+        <main class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- Left Column -->
+            <div class="md:col-span-2 space-y-8">
+                
+                <!-- About Me Section -->
+                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
+                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🚀 About Me</h2>
+                    <div class="bg-gray-900 p-4 rounded-lg font-mono text-sm text-cyan-400 overflow-x-auto">
+<pre><code>const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  location: "Nagpur, Maharashtra, India",
+  interests: ["Web Development", "Gaming", "Comic Books"],
+  currentlyLearning: ["React", "Node.js", "Python"],
+  funFact: "I create pixel art in my free time! 🎨"
+};</code></pre>
+                    </div>
+                </section>
+
+                <!-- Featured Projects Section -->
+                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
+                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🏆 Featured Projects</h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <!-- Project Card 1 -->
+                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
+                            <h3 class="text-lg font-bold text-white">🎮 Retro Game Hub</h3>
+                            <p class="text-sm text-gray-400 mt-1">Classic games recreated in modern web tech.</p>
+                            <p class="text-xs mt-2"><strong>Tech:</strong> HTML5, CSS3, JavaScript</p>
+                        </div>
+                        <!-- Project Card 2 -->
+                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
+                            <h3 class="text-lg font-bold text-white">🦸‍♂️ Hero Database</h3>
+                            <p class="text-sm text-gray-400 mt-1">A comprehensive comic character info app.</p>
+                            <p class="text-xs mt-2"><strong>Tech:</strong> React, Node.js, MongoDB</p>
+                        </div>
+                        <!-- Project Card 3 -->
+                        <div class="bg-gray-900 p-4 rounded-lg border-l-4 border-red-600 transform hover:scale-105 transition-transform duration-300">
+                            <h3 class="text-lg font-bold text-white">🎨 Pixel Art Creator</h3>
+                            <p class="text-sm text-gray-400 mt-1">Online tool for creating retro-style pixel art.</p>
+                            <p class="text-xs mt-2"><strong>Tech:</strong> Canvas API, JavaScript</p>
+                        </div>
+                    </div>
+                </section>
             </div>
-        </div>
 
-        <!-- Current Focus Section -->
-        <div class="section">
-            <h2>🎯 Current Focus</h2>
-            <ul>
-                <li>🔭 Working on: <strong>Web Development Projects</strong></li>
-                <li>🌱 Learning: <strong>Advanced React & Backend Technologies</strong></li>
-                <li>👯 Looking to collaborate on: <strong>Open Source Projects</strong></li>
-                <li>💬 Ask me about: <strong>JavaScript, Python, Pixel Art</strong></li>
-                <li>⚡ Fun fact: <strong>I recreate comic book characters in 8-bit style!</strong></li>
-            </ul>
-        </div>
+            <!-- Right Column -->
+            <div class="space-y-8">
+                <!-- Tech Stack Section -->
+                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
+                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🛠️ Tech Stack</h2>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">JavaScript</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Python</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">React</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Node.js</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">HTML5</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">CSS3</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">Git</span>
+                        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full">VS Code</span>
+                    </div>
+                </section>
 
-        <!-- Featured Projects Section -->
-        <div class="section">
-            <h2>🏆 Featured Projects</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <h3>🎮 Retro Game Hub</h3>
-                    <p>Collection of classic games recreated in modern web technologies</p>
-                    <p><strong>Tech:</strong> HTML5, CSS3, JavaScript</p>
-                </div>
-                <div class="project-card">
-                    <h3>🦸‍♂️ Hero Database</h3>
-                    <p>Comprehensive comic character information application</p>
-                    <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
-                </div>
-                <div class="project-card">
-                    <h3>🎨 Pixel Art Creator</h3>
-                    <p>Online tool for creating retro-style pixel art</p>
-                    <p><strong>Tech:</strong> Canvas API, JavaScript</p>
-                </div>
+                <!-- GitHub Stats Section -->
+                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
+                    <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">📊 GitHub Stats</h2>
+                    <div class="space-y-4">
+                        <div class="bg-gray-900 p-3 rounded-lg text-center">
+                            <h3 class="font-semibold text-white">🔥 Repositories</h3>
+                            <p class="text-3xl font-bold text-red-500">25+</p>
+                        </div>
+                        <div class="bg-gray-900 p-3 rounded-lg text-center">
+                            <h3 class="font-semibold text-white">⭐ Stars Earned</h3>
+                            <p class="text-3xl font-bold text-red-500">100+</p>
+                        </div>
+                        <div class="bg-gray-900 p-3 rounded-lg text-center">
+                            <h3 class="font-semibold text-white">🤝 Followers</h3>
+                            <p class="text-3xl font-bold text-red-500">50+</p>
+                        </div>
+                    </div>
+                </section>
+                
+                <!-- Connect With Me Section -->
+                <section class="bg-gray-800/50 p-6 rounded-xl shadow-lg border border-gray-700">
+                     <h2 class="text-2xl font-bold text-white border-b-2 border-red-600 pb-2 mb-4">🤝 Connect</h2>
+                     <div class="flex justify-center flex-wrap gap-3">
+                        <a href="https://linkedin.com/in/YOUR_LINKEDIN" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">LinkedIn</a>
+                        <a href="https://twitter.com/YOUR_TWITTER" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">Twitter</a>
+                        <a href="mailto:your.email@gmail.com" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">Email</a>
+                     </div>
+                </section>
+
             </div>
-        </div>
-
-        <!-- Gaming & Interests Section -->
-        <div class="section">
-            <h2>🎮 Gaming & Interests</h2>
-            <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-                <span style="background: #161b22; padding: 10px 15px; border-radius: 20px;">🕹️ Retro Gaming</span>
-                <span style="background: #161b22; padding: 10px 15px; border-radius: 20px;">🦇 DC Comics Fan</span>
-                <span style="background: #161b22; padding: 10px 15px; border-radius: 20px;">🎨 Pixel Art Creator</span>
-                <span style="background: #161b22; padding: 10px 15px; border-radius: 20px;">📚 Continuous Learning</span>
-                <span style="background: #161b22; padding: 10px 15px; border-radius: 20px;">🌟 Open Source</span>
-            </div>
-        </div>
-
-        <!-- Social Links -->
-        <div class="section">
-            <h2>🤝 Connect With Me</h2>
-            <div class="social-links">
-                <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-                <a href="https://twitter.com/YOUR_TWITTER">Twitter</a>
-                <a href="mailto:your.email@gmail.com">Email</a>
-                <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a>
-            </div>
-        </div>
+        </main>
 
         <!-- Footer -->
-        <div class="footer">
-            <p><strong>Thanks for visiting! ⭐ Star some repositories if you find them interesting!</strong></p>
-            <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" alt="Red Hood Pixel Art" height="60">
-            <p>Profile Views: <span style="background: #dc2626; padding: 2px 8px; border-radius: 3px;">1,234</span></p>
-        </div>
+        <footer class="text-center mt-10 p-6 bg-gray-800/50 rounded-xl shadow-lg border border-gray-700">
+            <p class="font-semibold mb-2">Thanks for visiting! ⭐ Star some repositories if you find them interesting!</p>
+            <img src="https://placehold.co/60x60/dc2626/white?text=RH" alt="Red Hood Pixel Art" class="mx-auto my-2 rounded-full">
+            <p class="text-sm">Profile Views: <span class="bg-red-600 text-white text-xs font-bold px-2 py-1 rounded-full">1,234</span></p>
+        </footer>
     </div>
 </body>
 </html>
