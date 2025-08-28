@@ -22,12 +22,15 @@
 ---
 
 📈 **GitHub Stats**  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/raw/master/profile-season-animate.svg" alt="3D Contribution Graph" />
-</p>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- 3D Icon -->
+  <img src="https://your-repo-url/3dicons-target-dynamic-color.png" width="120" alt="3D Icon">
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" width="300" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" width="200" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishikoli&theme=radical&row=1&column=7" width="300" alt="GitHub Trophies">
+</p>
 
 🏆 **GitHub Trophies**  
 <p align="center">
