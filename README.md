@@ -1,33 +1,51 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishikesh%20Koli&fontAlign=30&fontAlignY=36&animation=fadeIn&rotate=0&descAlign=95&descAlignY=100)
+<!-- ─────────────────────────────────────────────────────────── -->
+<!-- Banner -->
+<!-- Change color stops or text as you like                     -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff1e56,50:ff533d,100:8b0000&text=Rishikesh%20Koli&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=AI%20%26%20Web%20Developer&descAlign=50&descAlignY=65&animation=fadeIn" 
+    alt="banner"
+  />
+</p>
 
-# 👋 Hey there, I’m Rishikoli  
-
-💻 AI & Web Developer | 🚀 Hackathon Enthusiast | 📊 Data Explorer  
+# 👋 Hey there, I’m **Rishikoli**
+💻 *AI & Web Developer* | 🚀 *Hackathon Enthusiast* | 📊 *Data Explorer*  
 
 ---
 
 ## ⚡ Tech Stack
-- 🐍 Python | ⚛️ React | ☁️ Azure AI | 📊 BigQuery  
-- ⚡ FastAPI | 🔗 APIs | 🧠 Machine Learning  
+- 🐍 **Python**
+- ⚛️ **React**
+- ☁️ **Azure AI**
+- 📊 **BigQuery**
+- ⚡ **FastAPI**
+- 🔗 **REST / GraphQL APIs**
+- 🧠 **Machine Learning & LLMs**
 
 ---
 
-## 📊 GitHub Insights  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](YOUR_PORTFOLIO)  
+## 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=ff533d" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=radical" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="languages" height="160"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishikoli&color=blue)  
-![Followers](https://img.shields.io/github/followers/Rishikoli?label=Followers&style=social)  
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff533d?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)
+[![Mail](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikesh@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishikoli&color=ff1e56" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Rishikoli?label=Followers&style=social" alt="followers"/>
+</p>
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!-- Feel free to add new sections such as Blogs, Achievements   -->
+<!-- or replace emojis/text to match your personality.           -->
+<!-- ─────────────────────────────────────────────────────────── -->
