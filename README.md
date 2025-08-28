@@ -44,22 +44,20 @@ Online tool for creating retro-style pixel art.
 Canvas API, JavaScript
 
 📈 GitHub Insights
-<!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username -->
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-🌐 Connect with me
-<!-- IMPORTANT: Replace with your actual links -->
+🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rishikoli&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
+🌐 Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/rishikesh-koli-828248257">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 <a href="mailto:1983rishikesh@gmail.com">
 <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
