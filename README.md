@@ -20,7 +20,9 @@ Final-year Computer Science and Business Systems student passionate about buildi
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/raw/master/profile-season-animate.svg" alt="3D Contribution Graph" />
 </p>
+
 
 🏆 **GitHub Trophies**  
 <p align="center">
