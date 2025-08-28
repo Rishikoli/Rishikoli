@@ -1,16 +1,11 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:dc2626,50:7c3aed,100:161b22&text=Hey%20there,%20I'm%20[Your%20Name]&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=🦇%20Developer%20|%20🔴%20Tech%20Enthusiast%20|%20🎮%20Retro%20Gaming%20Fan&descAlign=50&descAlignY=60" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:dc2626,50:7c3aed,100:161b22&text=Hey%20there,%20I'm%20Rishikesh%20Koli&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Software%20Engineer%20%26%20AI%20Enthusiast&descAlign=50&descAlignY=60" alt="Header Banner"/>
 </p>
 
 🚀 About Me
-Full Stack Developer based in Nagpur, Maharashtra, India. Passionate about Web Development, Gaming, and Comic Books. Currently learning advanced React, Node.js, and Python. Fun fact: I love creating 8-bit style pixel art in my free time! 🎨
-
-<p align="center">
-<img src="7972f109-9eec-4a16-9c4a-048426972da4.png" alt="Pixel Art Red Hood" height="150"/> 
-
-<img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" alt="Pixel Art Bat Symbol" height="150"/> </p>
+Final-year Computer Science and Business Systems student passionate about creating real-world solutions by combining AI, web development, and business logic. Experienced in driving projects in finance, healthcare, and sustainability. I enjoy turning complex ideas into meaningful and user-focused products.
 
 ⚡ Tech Stack
 <p align="left">
@@ -18,9 +13,9 @@ Full Stack Developer based in Nagpur, Maharashtra, India. Passionate about Web D
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
 🏆 Featured Projects
@@ -30,47 +25,47 @@ Summary
 
 Tech
 
-🎮 Retro Game Hub
+🤖 Interview Master.ai
 
-Classic games recreated in modern web tech.
+AI-powered mock interview platform with real-time questions and feedback.
 
-HTML5, CSS3, JavaScript
+Python, JavaScript, React, NLP
 
-🦸‍♂️ Hero Database
+📈 TradeVision
 
-A comprehensive comic character info app.
+Stock trend prediction app with ML forecasting and interactive dashboards.
 
-React, Node.js, MongoDB
+Python, React, Machine Learning
 
-🎨 Pixel Art Creator
+💡 WattWise
 
-Online tool for creating retro-style pixel art.
+Real-time utility usage monitoring with personalized tips and alerts.
 
-Canvas API, JavaScript
+-
+
+🏅 Awards & Achievements
+1st Prize - Intestella Hackathon (Ramdeobaba College of Engineering)
+
+1st Prize - Aixplore Hackathon (Tulshiramji Gaikwad College of Engineering)
+
+Consolation Prize - TechSaksham Regional Showcase (Microsoft & SAP Initiative)
 
 📈 GitHub Insights
-<!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username -->
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 🌐 Connect with me
-<!-- IMPORTANT: Replace with your actual links -->
-
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/rishikesh-koli-828248257">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:1983rishikesh@gmail.com">
 <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=dc2626" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Rishikoli&color=dc2626" alt="profile views"/>
 </p>
