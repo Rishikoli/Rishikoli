@@ -279,32 +279,6 @@ Impact: Helping businesses detect financial irregularities
 | 💼 **Secure Tech Internship** | 🎯 Applying | Q1 2025 | ██░░░░░░ 25% |
 
 </div>
-
----
-
-### ⚡ **Fun Facts About Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/💻-Code-DC143C?style=for-the-badge" alt="Code" />
-<br><sub>I can debug both code AND business logic!</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/🌙-Night_Owl-DC143C?style=for-the-badge" alt="Night Owl" />
-<br><sub>Best coding happens after 10 PM</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/☕-Coffee-DC143C?style=for-the-badge" alt="Coffee" />
-<br><sub>Powered by coffee and curiosity</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
