@@ -201,26 +201,11 @@
 
 ---
 
-## 📈 GitHub Analytics
 
 <div align="center">
   <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" width="120" alt="3D Icon">
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=dark&icon_color=dc143c&hide_border=true&bg_color=000000&title_color=dc143c&text_color=ffffff" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=dc143c&text_color=ffffff" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=dark&hide_border=true&background=000000&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=monokai" alt="Profile Summary" />
-</div>
-
----
 
 ## 🎯 Current Focus & Goals
 
