@@ -100,3 +100,55 @@ const currentFocus = {
 };
 
 
+---
+
+## 🏅 Achievements & Certifications
+
+- 🏆 **Active Hackathon Participant** - Google Maps Platform, MongoDB, GCP challenges
+- 📜 **AWS Cloud Practitioner** (In Progress)
+- 🎓 **Computer Science & Business Systems** - Final Year Student
+- 💼 **Full-Stack Development** - 3+ years experience
+- 🧠 **AI/ML Specialization** - Applied to financial technology
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikoli&theme=react-dark&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rishikesh-koli-828248257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:1983rishikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Rishikoli">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<div align="center">
+  <img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" width="80" height="80" alt="3D Icon">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!+🚀" alt="Thanks" />
+</div>
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
+
+
+
