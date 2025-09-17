@@ -231,3 +231,8 @@
 ---
 
 ### 🔭 **What I'm Currently Working On**
+Project: IRIS - AI-Powered Forensic Financial Analysis Platform
+Description: Advanced fraud detection and financial analysis tool
+Tech Stack: Python, FastAPI, React, PostgreSQL, TensorFlow
+Status: In Active Development 🚧
+Impact: Helping businesses detect financial irregularities
