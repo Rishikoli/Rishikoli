@@ -45,8 +45,6 @@
 
 </div>
 
----
-
 ### 🎨 **Frontend Development**
 <div align="center">
   
@@ -59,7 +57,6 @@
 
 </div>
 
----
 
 ### ⚙️ **Backend & API Development**
 <div align="center">
@@ -73,8 +70,6 @@
 
 </div>
 
----
-
 ### 🗄️ **Databases & Storage**
 <div align="center">
   
@@ -86,7 +81,6 @@
 
 </div>
 
----
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
@@ -99,8 +93,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
-
----
 
 ### 🤖 **AI/ML & Data Science**
 <div align="center">
@@ -115,7 +107,7 @@
 
 </div>
 
----
+
 
 ### 🗺️ **Geospatial & APIs**
 <div align="center">
@@ -127,12 +119,9 @@
 
 </div>
 
----
-
 ### 🛠️ **Development Tools**
 <div align="center">
   
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -140,8 +129,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
-
----
 
 ### 📊 **Data Visualization & Analytics**
 <div align="center">
@@ -154,7 +141,6 @@
 
 </div>
 
----
 
 ### 💼 **Business & Finance Tools**
 <div align="center">
@@ -236,34 +222,6 @@ Impact: Helping businesses detect financial irregularities
 | Computer Vision | Market Analysis | Scalable Systems |
 
 </div>
-
----
-
-### 👯 **Open to Collaborate On**
-
-<div align="center">
-
-🏆 **Hackathons** • 🚀 **Innovative Projects** • 💡 **AI Solutions** • 🗺️ **Geospatial Apps** • 📊 **Data Analytics**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Hackathons-DC143C?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons" />
-<br><sub><b>Google Maps Platform<br>MongoDB Challenges<br>GCP Competitions</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Open_Source-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-<br><sub><b>AI/ML Libraries<br>Web Applications<br>Developer Tools</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Startups-B22222?style=for-the-badge&logo=rocket&logoColor=white" alt="Startups" />
-<br><sub><b>FinTech Solutions<br>SaaS Products<br>Tech Innovation</b></sub>
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🥅 **2025 Goals & Milestones**
