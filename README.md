@@ -236,3 +236,148 @@ Description: Advanced fraud detection and financial analysis tool
 Tech Stack: Python, FastAPI, React, PostgreSQL, TensorFlow
 Status: In Active Development 🚧
 Impact: Helping businesses detect financial irregularities
+
+---
+
+### 🌱 **Currently Learning & Exploring**
+
+<div align="center">
+
+| 🧠 **AI/ML** | 💰 **Finance** | 🏗️ **Architecture** |
+|:---:|:---:|:---:|
+| Advanced Machine Learning | Financial Modeling | System Design |
+| Deep Learning Algorithms | Risk Assessment | Microservices |
+| LLM Fine-tuning | Fraud Detection | Cloud Architecture |
+| Computer Vision | Market Analysis | Scalable Systems |
+
+</div>
+
+---
+
+### 👯 **Open to Collaborate On**
+
+<div align="center">
+
+🏆 **Hackathons** • 🚀 **Innovative Projects** • 💡 **AI Solutions** • 🗺️ **Geospatial Apps** • 📊 **Data Analytics**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Hackathons-DC143C?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons" />
+<br><sub><b>Google Maps Platform<br>MongoDB Challenges<br>GCP Competitions</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Open_Source-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+<br><sub><b>AI/ML Libraries<br>Web Applications<br>Developer Tools</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Startups-B22222?style=for-the-badge&logo=rocket&logoColor=white" alt="Startups" />
+<br><sub><b>FinTech Solutions<br>SaaS Products<br>Tech Innovation</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 🥅 **2025 Goals & Milestones**
+
+<div align="center">
+
+| Goal | Status | Timeline | Progress |
+|:-----|:-------|:---------|:---------|
+| 🏆 **Win Major Hackathon** | 🎯 In Progress | Q4 2025 | ████░░░░ 50% |
+| 🚀 **Launch IRIS Platform** | 🔄 Development | Q1 2026 | ██████░░ 75% |
+| 📚 **Complete AWS Certification** | 📖 Learning | Dec 2025 | ████░░░░ 50% |
+| 🌟 **Contribute to Open Source** | ✅ Active | Ongoing | ████████ 100% |
+| 💼 **Secure Tech Internship** | 🎯 Applying | Q1 2025 | ██░░░░░░ 25% |
+
+</div>
+
+---
+
+### ⚡ **Fun Facts About Me**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/💻-Code-DC143C?style=for-the-badge" alt="Code" />
+<br><sub>I can debug both code AND business logic!</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/🌙-Night_Owl-DC143C?style=for-the-badge" alt="Night Owl" />
+<br><sub>Best coding happens after 10 PM</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/☕-Coffee-DC143C?style=for-the-badge" alt="Coffee" />
+<br><sub>Powered by coffee and curiosity</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **Current Mindset**
+
+*"Every problem is an opportunity to build a solution that matters."*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=600&lines=Building+tomorrow's+solutions+today;Code+%2B+Business+Logic+%3D+Impact;Always+learning%2C+always+growing" alt="Mindset" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🏆 **Active Hackathon Participant** - Google Maps Platform, MongoDB, GCP challenges
+- 📜 **AWS Cloud Practitioner** (In Progress)
+- 🎓 **Computer Science & Business Systems** - Final Year Student
+- 💼 **Full-Stack Development** - 3+ years experience
+- 🧠 **AI/ML Specialization** - Applied to financial technology
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikoli&theme=redical&hide_border=true&bg_color=000000&color=dc143c&line=dc143c&point=ffffff" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rishikesh-koli-828248257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:1983rishikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Rishikoli">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<div align="center">
+  <img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" width="80" height="80" alt="3D Icon">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!+🚀" alt="Thanks" />
+</div>
+
+<div align="center">
+  
+**"In the shadows of code, we find the light of innovation." - Red Hood Vibes**
+
+</div>
