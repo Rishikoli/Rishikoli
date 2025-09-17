@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Rishikesh+👋;CS+%26+Business+Systems+Student;AI+%26+Web+Development+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Rishikesh+👋;CS+%26+Business+Systems+Student;AI+%26+Web+Development+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishikoli&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rishikoli?style=for-the-badge&color=7c3aed" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Rishikoli&color=dc143c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rishikoli?style=for-the-badge&color=dc143c" alt="GitHub Followers" />
 </div>
 
 ---
@@ -21,15 +21,16 @@
 - 💡 **Mission:** Turning complex ideas into meaningful, user-focused products
 
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="3dicons-flash-dynamic-color.png" width="50" alt="Tech Stack Icon">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;AI%2FML+Engineer;Cloud+Architect;Data+Scientist" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;AI%2FML+Engineer;Cloud+Architect;Data+Scientist" alt="Skills" />
 </div>
 
-
+---
 
 ### 💻 **Programming Languages**
 <div align="center">
@@ -44,7 +45,7 @@
 
 </div>
 
-
+---
 
 ### 🎨 **Frontend Development**
 <div align="center">
@@ -58,7 +59,7 @@
 
 </div>
 
-
+---
 
 ### ⚙️ **Backend & API Development**
 <div align="center">
@@ -72,7 +73,7 @@
 
 </div>
 
-
+---
 
 ### 🗄️ **Databases & Storage**
 <div align="center">
@@ -85,7 +86,7 @@
 
 </div>
 
-
+---
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
@@ -99,6 +100,7 @@
 
 </div>
 
+---
 
 ### 🤖 **AI/ML & Data Science**
 <div align="center">
@@ -113,6 +115,7 @@
 
 </div>
 
+---
 
 ### 🗺️ **Geospatial & APIs**
 <div align="center">
@@ -124,7 +127,7 @@
 
 </div>
 
-
+---
 
 ### 🛠️ **Development Tools**
 <div align="center">
@@ -138,6 +141,7 @@
 
 </div>
 
+---
 
 ### 📊 **Data Visualization & Analytics**
 <div align="center">
@@ -150,7 +154,7 @@
 
 </div>
 
-
+---
 
 ### 💼 **Business & Finance Tools**
 <div align="center">
@@ -161,7 +165,7 @@
 
 </div>
 
-
+---
 
 <div align="center">
   
@@ -181,9 +185,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most+Used+Languages&lineCount=8&theme=radical&bg=0d1117&badge=7c3aed&border=7c3aed&titleColor=7c3aed&line1=Python,python,90;&line2=JavaScript,javascript,85;&line3=SQL,sql,80;&line4=TypeScript,typescript,75;&line5=HTML,html,85;&line6=CSS,css,80;&line7=PowerShell,powershell,70;&line8=Bash,bash,65;" alt="Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most+Used+Languages&lineCount=8&theme=dark&bg=000000&badge=dc143c&border=dc143c&titleColor=dc143c&line1=Python,python,90;&line2=JavaScript,javascript,85;&line3=SQL,sql,80;&line4=TypeScript,typescript,75;&line5=HTML,html,85;&line6=CSS,css,80;&line7=PowerShell,powershell,70;&line8=Bash,bash,65;" alt="Tech Stack" />
 </div>
-
 
 ---
 
@@ -205,80 +208,26 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=radical&icon_color=7c3aed&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishikoli&show_icons=true&theme=dark&icon_color=dc143c&hide_border=true&bg_color=000000&title_color=dc143c&text_color=ffffff" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikoli&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=dc143c&text_color=ffffff" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikoli&theme=dark&hide_border=true&background=000000&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikoli&theme=monokai" alt="Profile Summary" />
 </div>
 
 ---
 
 ## 🎯 Current Focus & Goals
 
-const currentFocus = {
-🔭 working_on: "IRIS - AI-powered forensic financial analysis platform",
-🌱 learning: ["Advanced Machine Learning", "Financial Modeling", "System Design"],
-👯 collaborating: "Open to hackathons and innovative projects",
-🥅 goals: ["Win major hackathon", "Launch SaaS product", "Contribute to open source"],
-⚡ fun_fact: "I can debug code and business logic equally well!"
-};
-
-
----
-
-## 🏅 Achievements & Certifications
-
-- 🏆 **Active Hackathon Participant** - Google Maps Platform, MongoDB, GCP challenges
-- 📜 **AWS Cloud Practitioner** (In Progress)
-- 🎓 **Computer Science & Business Systems** - Final Year Student
-- 💼 **Full-Stack Development** - 3+ years experience
-- 🧠 **AI/ML Specialization** - Applied to financial technology
-
----
-
-## 📊 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikoli&theme=react-dark&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff" alt="Activity Graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Building+the+Future+with+AI+🚀;Creating+Real-World+Solutions+💡;Turning+Ideas+into+Products+⭐" alt="Focus" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rishikesh-koli-828248257">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:1983rishikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Rishikoli">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<div align="center">
-  <img src="b4c7c63d-f1be-448b-820c-0eaced58ff81.png" width="80" height="80" alt="3D Icon">
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!+🚀" alt="Thanks" />
-</div>
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-</div>
-
-
-
+### 🔭 **What I'm Currently Working On**
