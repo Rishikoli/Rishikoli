@@ -153,7 +153,11 @@
 
 ---
 
-<div align="center">
+<div align="left">
+<div align="right">
+  <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" width="120" alt="3D Icon">
+</div>
+
   
 ### 📈 **Skill Proficiency**
 
@@ -170,12 +174,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most+Used+Languages&lineCount=8&theme=dark&bg=000000&badge=dc143c&border=dc143c&titleColor=dc143c&line1=Python,python,90;&line2=JavaScript,javascript,85;&line3=SQL,sql,80;&line4=TypeScript,typescript,75;&line5=HTML,html,85;&line6=CSS,css,80;&line7=PowerShell,powershell,70;&line8=Bash,bash,65;" alt="Tech Stack" />
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack | Status |
@@ -188,9 +186,6 @@
 ---
 
 
-<div align="center">
-  <img src="7972f109-9eec-4a16-9c4a-048426972da4.png" width="120" alt="3D Icon">
-</div>
 
 
 ## 🎯 Current Focus & Goals
