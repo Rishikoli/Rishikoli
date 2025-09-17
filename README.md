@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;AI%2FML+Engineer;Cloud+Architect;Data+Scientist" alt="Skills" />
 </div>
 
----
+
 
 ### 💻 **Programming Languages**
 <div align="center">
@@ -44,7 +44,7 @@
 
 </div>
 
----
+
 
 ### 🎨 **Frontend Development**
 <div align="center">
@@ -58,7 +58,7 @@
 
 </div>
 
----
+
 
 ### ⚙️ **Backend & API Development**
 <div align="center">
@@ -72,7 +72,7 @@
 
 </div>
 
----
+
 
 ### 🗄️ **Databases & Storage**
 <div align="center">
@@ -85,7 +85,7 @@
 
 </div>
 
----
+
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
@@ -99,7 +99,6 @@
 
 </div>
 
----
 
 ### 🤖 **AI/ML & Data Science**
 <div align="center">
@@ -114,7 +113,6 @@
 
 </div>
 
----
 
 ### 🗺️ **Geospatial & APIs**
 <div align="center">
@@ -126,7 +124,7 @@
 
 </div>
 
----
+
 
 ### 🛠️ **Development Tools**
 <div align="center">
@@ -140,7 +138,6 @@
 
 </div>
 
----
 
 ### 📊 **Data Visualization & Analytics**
 <div align="center">
@@ -153,7 +150,7 @@
 
 </div>
 
----
+
 
 ### 💼 **Business & Finance Tools**
 <div align="center">
@@ -164,7 +161,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
