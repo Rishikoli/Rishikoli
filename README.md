@@ -229,7 +229,6 @@ Impact: Helping businesses detect financial irregularities
 | 🚀 **Launch IRIS Platform** | 🔄 Development | Q1 2026 | ██████░░ 75% |
 | 📚 **Complete AWS Certification** | 📖 Learning | Dec 2025 | ████░░░░ 50% |
 | 🌟 **Contribute to Open Source** | ✅ Active | Ongoing | ████████ 100% |
-| 💼 **Secure Tech Internship** | 🎯 Applying | Q1 2025 | ██░░░░░░ 25% |
 
 </div>
 ---
