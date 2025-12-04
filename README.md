@@ -272,7 +272,5 @@ Impact: Helping businesses detect financial irregularities
 </div>
 
 <div align="center">
-  
-**"In the shadows of code, we find the light of innovation." - Red Hood Vibes**
 
 </div>
