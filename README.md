@@ -51,4 +51,4 @@ Name          : Rishikesh Koli
 Education     : B.Tech — Computer Science & Business Systems
 Interests     : Artificial Intelligence • Backend Engineering • FinTech
 Current Focus : IRIS — AI-Powered Financial Intelligence Platform
-Location      : 
+Location      : India
